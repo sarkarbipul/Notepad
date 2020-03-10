@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217162144745",
+    "firebase_url": "https://examtest1-88ac5.firebaseio.com",
+    "project_id": "examtest1-88ac5",
+    "storage_bucket": "examtest1-88ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217162144745:android:c2658b7b05b2b30b630978",
+        "android_client_info": {
+          "package_name": "com.b2.bipul.examtest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217162144745-lihk827v0d2f10nkrosgfo2nbkc1np66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEcqa792qngkUIUF-KX2tVwQgPcXWxfFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217162144745-lihk827v0d2f10nkrosgfo2nbkc1np66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
